@@ -1,0 +1,14 @@
+[MakeConfiguration]
+make_app_package = com.kidscademy.quiz.instruments
+make_app_debug_package = com.kidscademy.quiz.instruments
+make_original_apk_path = app/build/outputs/apk/debug/app-debug.apk
+make_android_test_apk_path = app/build/outputs/apk/androidTest/debug/app-debug-androidTest.apk
+make_assemble_apk_command = assemble
+make_assemble_android_test_command = assembleAndroidTest
+make_test_runner = com.kidscademy.quiz.instruments.test/android.support.test.runner.AndroidJUnitRunner
+make_permissions =
+make_instr_skip_classes = com.kidscademy.quiz.instruments.R
+make_instr_filter_packages = java.io
+make_instr_filter_classes = java.lang.StringBuilder
+make_carving_filter_methods =
+make_trace_multiple_threads = true
