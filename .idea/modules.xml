@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/instruments.iml" filepath="$PROJECT_DIR$/instruments.iml" />
-      <module fileurl="file://$PROJECT_DIR$/js-android/js-android.iml" filepath="$PROJECT_DIR$/js-android/js-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/quiz.instruments.iml" filepath="$PROJECT_DIR$/.idea/modules/quiz.instruments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/quiz.instruments.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/quiz.instruments.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/quiz.instruments.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/quiz.instruments.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/quiz.instruments.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/quiz.instruments.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/quiz.instruments.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/quiz.instruments.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/js-android/quiz.instruments.js-android.iml" filepath="$PROJECT_DIR$/.idea/modules/js-android/quiz.instruments.js-android.iml" />
     </modules>
   </component>
 </project>
